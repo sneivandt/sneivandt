@@ -14,15 +14,9 @@ Editors      VS Code · Neovim
 OS           Arch Linux (btw) · Windows
 ```
 
-### ☕ Fun Facts
+### 🎯 Fun Facts
 
 - My dotfiles repo has more care put into it than most production systems
 - My music taste spans everything except maybe opera
 - I think the best debugging tool is a good night's sleep — but I'll try `println!` first
 
----
-
-<p align="center">
-  <a href="https://stuartneivandt.com">🌐 Website</a> ·
-  <a href="https://github.com/sneivandt">🐙 GitHub</a>
-</p>
