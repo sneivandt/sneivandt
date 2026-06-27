@@ -8,7 +8,7 @@ When I'm not writing code, I'm probably with family, drinking coffee, listening 
 ### 🔧 Tech Stack
 
 ```
-AI           GitHub Copilot · Claude Opus
+AI           GitHub Copilot · GPT
 Languages    C# · Rust · Python
 Editors      VS Code · Neovim
 OS           Arch Linux (btw) · Windows
@@ -18,5 +18,4 @@ OS           Arch Linux (btw) · Windows
 
 - My dotfiles repo has more care put into it than most production systems
 - My music taste spans everything except maybe opera
-- I think the best debugging tool is a good night's sleep — but I'll try `println!` first
-
+- I think the best debugging tool is a good night's sleep
