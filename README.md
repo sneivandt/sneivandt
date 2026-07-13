@@ -13,9 +13,3 @@ Languages    C# · Rust · Python
 Editors      VS Code · Neovim
 OS           Arch Linux (btw) · Windows
 ```
-
-### 🎯 Fun Facts
-
-- My dotfiles repo has more care put into it than most production systems
-- My music taste spans everything except maybe opera
-- I think the best debugging tool is a good night's sleep
