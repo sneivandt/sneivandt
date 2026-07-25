@@ -8,7 +8,7 @@ When I'm not writing code, I'm probably with family, drinking coffee, listening 
 ### 🔧 Tech Stack
 
 ```
-AI           GitHub Copilot · GPT
+AI           Agent workflows · Tool integration
 Languages    C# · Rust · Python
 Editors      VS Code · Neovim
 OS           Arch Linux (btw) · Windows
